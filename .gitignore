@@ -1,0 +1,14 @@
+bin/*
+*.pidb
+
+*.userprefs
+
+*.exe
+
+*.mdb
+
+*.bat
+
+*.sh
+
+*.zip
